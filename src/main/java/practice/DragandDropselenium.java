@@ -69,6 +69,13 @@ public class DragandDropselenium {
 		
 		driver.close();
 		
+		driver.switchTo().frame(0);
+		Actions actions2= new Actions(driver);
+		actions2.clickAndHold(driver.findElement(By.id("testing")))
+		.moveToElement(driver.findElement(By.id("Dragable"))).release().build().perform();
+		
+		
+		
 		
 	//	actions.dragAndDrop(null, null);
 		
@@ -93,5 +100,8 @@ public class DragandDropselenium {
 		
 		
 	}
+	
+	
+	
 	
 }
