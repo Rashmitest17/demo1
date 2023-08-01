@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="ExtendReport">
+	<listeners>
+		<listener
+			class-name="com.qa.ExtentReportListener.ExtentReporterNG"></listener>
+	</listeners>
+
+
+	<test thread-count="5" name="ExtendReport of FilterTest">
+		<classes>
+			<class name="testcases.BlogPageTest"></class>
+			<class name="testcases.VerifyFooterLinksclickTest"></class>
+			<class name="testcases.LoginPageTest"></class>
+			<class name="testcases.ServiceMenuPageTest"></class>
+			<class name="testcases.ViewVendorPortfolioListTest"></class>
+			<class name="testcases.IndexPageTest">
+				<methods>
+					<include name="verifyGoodfirmsImageLogoTest"/>
+					<include name="verify_IndexpageTitle"></include>
+				</methods>
+			</class>
+			
+			<class name="testcases.FindSoftwareCategoryPage">
+				<methods>
+					<include name="load" />
+					<include name="verify_FindSoftwareMenuTest" />
+					<include name="validate_SoftwarePageTitleTest" />
+					<include name="verify_SORTBy_SoftwareTest" />
+					<include name="verify_SoftwareCategory_PaginationTest" />
+					<include name="verify_SoftwareRelatedCategoryTest" />
+					<include name="verify_FindSoftwareByFilter" />
+					<include name="verify_FilterByPopularFeaturescheck" />
+					<include name="verify_FilterByPriceModelSelection" />
+					<include name="verify_FilterByDevicesupportselection" />
+					<include name="verify_FilterByDeploymentselection" />
+					<include name="verify_FilterByTargetcompanysizeselection" />
+					<include name="verify_FilterByExtra_selectCheckbox" />
+					<include name="TearDown" />
+				</methods>
+			</class>
+			
+			<class name="testcases.TopSearchPageTest">
+				<methods>
+					<include name="verify_TopSearch" />
+					<include name="verify_BlankTopSearch" />
+					<include name="verify_InvalidTopSearch" />
+					<include name="verify_searchIconPresent" />
+					<include name="verify_cursorEnabledinsearchbox" />
+					<include name="verify_LoaderdisplaySearch" />
+					<include name="verify_validateSuggessionSearch" />
+					<include name="verify_validateSearchBoxonTop" />
+					<include name="verify_valiateskipsearch" />
+					<include name="verify_NegativeTcs" />
+					<include name="verify_NoResultFoundSerchPopup" />
+					<include name="verify_validateBlogSearch" />
+					<include name="verify_validateBlogSearchByViewAllResultTest" />
+					<include name="verify_InsightReaserchTest" />
+					<include name="verify_validateSearchBymultilingualService_Lanaguage" />
+				</methods>
+			</class>
+			<!--
+			testcases.FindSoftwareCategoryPage -->
+		</classes>
+	</test> <!--
+	Default test(failed) -->
+</suite> <!--
+Failed suite [Default suite] -->

@@ -1,0 +1,312 @@
+[INFO ] 2023-05-29 17:28:48.127 [main] VerifyFooterLinksclick - testcases.VerifyFooterLinksclick:TRACE in 4e25154f
+[INFO ] 2023-05-29 17:32:23.618 [main] VerifyFooterLinksclick - 
+Privacy,Terms of use, WHY GOODFIRMS,HELP CENTER ,GLOSSARY,BLOGS,FAQS,RESEARCH METHODOLOGY,FIND SERVICES,FIND SOFTWARE,INSIGHTS,WRITE A REVIEW,GET LISTED,WHY GET LISTED?,BUILD YOUR PROFILE,BOOST YOUR PROFILE,VENDOR LOGIN
+
+[INFO ] 2023-05-29 17:39:26.773 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links
+[INFO ] 2023-05-29 17:39:26.784 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-05-29 17:39:26.785 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-05-29 17:39:26.785 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-05-29 17:39:26.785 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-05-29 17:39:26.785 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-05-29 17:39:26.785 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-05-29 17:39:26.785 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-05-29 17:39:26.786 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-05-29 17:39:26.786 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-05-29 17:39:26.787 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-05-29 17:39:26.788 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-05-29 17:39:26.788 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-05-29 17:39:26.788 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-05-29 17:39:26.788 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-05-29 17:39:26.788 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-05-29 17:39:26.788 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-05-29 17:39:26.788 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-05-29 17:39:26.789 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+
+
+[INFO ] 2023-05-30 10:08:45.712 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-05-30 10:09:07.363 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-05-30 10:09:13.223 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-05-30 12:18:06.476 [main] VerifyFooterLinksclick - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-05-30 12:18:06.498 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-05-30 12:18:06.499 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-05-30 12:18:06.499 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-05-30 12:18:06.499 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-05-30 12:18:06.499 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-05-30 12:18:06.501 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-05-30 12:18:06.503 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-05-30 12:18:06.504 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-05-30 12:18:06.504 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-05-30 12:18:06.504 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-05-30 12:18:06.505 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-05-30 12:18:06.505 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-05-30 12:18:06.505 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-05-30 12:18:06.506 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-05-30 12:18:06.506 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-05-30 12:18:06.507 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-05-30 12:18:06.507 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-05-30 12:18:06.507 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-05-30 12:18:06.508 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+[INFO ] 2023-05-30 12:25:01.561 [main] VerifyFooterLinksclick - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-05-30 12:25:01.601 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-05-30 12:25:01.601 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-05-30 12:25:01.601 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-05-30 12:25:01.601 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-05-30 12:25:01.602 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-05-30 12:25:01.606 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-05-30 12:25:01.607 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-05-30 12:25:01.607 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-05-30 12:25:01.607 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-05-30 12:25:01.607 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-05-30 12:25:01.607 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+[INFO ] 2023-05-30 16:31:51.527 [main] VerifyFooterLinksclick - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-05-30 16:31:51.537 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-05-30 16:31:51.537 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-05-30 16:31:51.538 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-05-30 16:31:51.538 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-05-30 16:31:51.538 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-05-30 16:31:51.539 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-05-30 16:31:51.539 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-05-30 16:31:51.540 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-05-30 16:31:51.540 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-05-30 16:31:51.540 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-05-30 16:31:51.540 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-05-30 16:31:51.540 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-05-30 16:31:51.540 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-05-30 16:31:51.540 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-05-30 16:31:51.541 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-05-30 16:31:51.541 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-05-30 16:31:51.541 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-05-30 16:31:51.541 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-05-30 16:31:51.541 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+[INFO ] 2023-05-31 16:59:31.899 [main] VerifyFooterLinksclick - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-05-31 16:59:31.913 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-05-31 16:59:31.913 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-05-31 16:59:31.913 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-05-31 16:59:31.916 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-05-31 16:59:31.917 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-05-31 16:59:31.917 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-05-31 16:59:31.917 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-05-31 16:59:31.917 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-05-31 16:59:31.917 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-05-31 16:59:31.917 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-05-31 16:59:31.919 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-05-31 16:59:31.919 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-05-31 16:59:31.919 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-05-31 16:59:31.919 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-05-31 16:59:31.919 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-05-31 16:59:31.919 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-05-31 16:59:31.919 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-05-31 16:59:31.920 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-05-31 16:59:31.920 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+[INFO ] 2023-05-31 17:03:42.076 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-05-31 17:03:47.224 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-05-31 17:03:55.654 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-05-31 17:04:01.808 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-05-31 18:10:59.435 [main] VerifyFooterLinksclick - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-05-31 18:10:59.443 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-05-31 18:10:59.443 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-05-31 18:10:59.443 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-05-31 18:10:59.443 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-05-31 18:10:59.444 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-05-31 18:10:59.445 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-05-31 18:10:59.445 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-05-31 18:10:59.445 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-05-31 18:10:59.445 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+[INFO ] 2023-05-31 18:11:56.849 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-05-31 18:12:04.416 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-05-31 18:12:09.329 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-05-31 18:14:28.273 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-05-31 18:14:34.711 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-05-31 18:14:43.877 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-05-31 18:14:50.385 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-05-31 18:16:37.243 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-05-31 18:16:42.490 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-05-31 18:16:51.159 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-05-31 18:16:58.485 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-05-31 18:18:22.274 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-05-31 18:18:27.067 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-05-31 18:18:34.505 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-05-31 18:18:40.140 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-06-12 13:24:07.461 [main] LoginTestCaseNew - Error
+[INFO ] 2023-06-12 13:26:25.959 [main] LoginTestCaseNew - Error
+[INFO ] 2023-06-23 15:53:21.222 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-06-23 15:53:27.233 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-06-23 15:53:34.746 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-06-23 15:53:43.065 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-06-23 15:53:57.593 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-06-23 15:54:18.137 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-06-23 15:54:34.886 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-06-23 15:54:41.686 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-06-23 15:54:50.104 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-06-23 15:54:56.905 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-06-23 15:55:10.729 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-06-23 15:55:29.367 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-06-23 15:55:46.075 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-06-23 15:55:53.110 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-06-23 15:56:01.949 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-06-23 15:56:12.534 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-06-23 15:56:36.206 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-06-23 15:56:59.201 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-03 10:30:20.647 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 10:30:26.987 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 10:30:30.000 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 10:31:00.504 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-03 10:31:04.211 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 10:31:08.468 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 10:31:12.257 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 10:31:22.707 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 10:31:44.449 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 10:31:48.460 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 10:31:51.787 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 13:58:31.693 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 13:58:37.072 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 13:58:40.469 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 14:02:02.000 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-03 14:02:06.110 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 14:02:09.896 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 14:02:14.097 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 14:02:24.552 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 14:02:37.467 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-03 15:46:31.045 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-03 15:46:36.639 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 15:46:40.820 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 15:46:44.109 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 15:46:54.557 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 15:47:07.211 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-03 15:48:37.430 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-03 15:48:42.953 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 15:48:47.152 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 15:48:50.346 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 15:49:01.340 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 15:49:14.374 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-03 15:50:50.017 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-03 15:50:54.259 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 15:50:58.940 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 15:51:02.987 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 15:51:13.945 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 15:51:27.576 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-03 16:35:22.309 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-03 16:35:26.171 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 16:35:30.804 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 16:35:35.946 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 16:35:48.155 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 16:36:00.908 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-03 17:34:32.797 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-03 17:34:36.516 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 17:34:40.719 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 17:34:43.691 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 17:34:54.412 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 17:35:08.000 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-03 17:39:09.174 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-03 17:39:17.644 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-03 17:39:24.559 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-03 17:39:35.814 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-03 17:39:48.139 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-04 15:42:51.306 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-12 11:34:56.256 [main] VerifyFooterLinksclick - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-07-12 11:34:56.271 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-07-12 11:34:56.271 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-07-12 11:34:56.271 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-07-12 11:34:56.271 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-07-12 11:34:56.272 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-07-12 11:34:56.272 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-07-12 11:34:56.272 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-07-12 11:34:56.273 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-07-12 11:34:56.274 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-07-12 11:34:56.274 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-07-12 11:34:56.274 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+[INFO ] 2023-07-12 11:41:59.485 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-12 11:42:05.461 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-12 11:42:10.248 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-17 11:10:02.952 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-17 11:10:06.998 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-17 11:10:12.612 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-17 11:10:16.722 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-17 11:10:27.303 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-17 11:10:39.741 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-17 11:10:49.449 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-17 11:10:53.805 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-17 11:10:58.221 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-17 11:11:02.385 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-17 11:11:14.010 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-17 11:11:26.131 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-17 11:11:35.949 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-17 11:11:40.049 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-17 11:11:44.473 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-17 11:11:47.985 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-17 11:11:59.011 [main] LoginPageTest - Verify_BlankCheck
+[INFO ] 2023-07-17 11:12:11.649 [main] LoginPageTest - Verify_InvalidloginTest
+[INFO ] 2023-07-17 15:24:51.340 [main] VerifyFooterLinksclick - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-07-17 15:24:51.352 [main] VerifyFooterLinksclick - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-07-17 15:24:51.353 [main] VerifyFooterLinksclick - Open Privacy link
+[INFO ] 2023-07-17 15:24:51.354 [main] VerifyFooterLinksclick - Open Terms of use link
+[INFO ] 2023-07-17 15:24:51.354 [main] VerifyFooterLinksclick - Open WHY GOODFIRMS link
+[INFO ] 2023-07-17 15:24:51.354 [main] VerifyFooterLinksclick - Open HELP CENTER link
+[INFO ] 2023-07-17 15:24:51.355 [main] VerifyFooterLinksclick - Open GLOSSARY link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open BLOGS link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open FAQS link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open RESEARCH link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open METHODOLOGY link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open FIND SERVICES link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open FIND SOFTWARE link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open INSIGHTS link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open WRITE A REVIEW link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open GET LISTED link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open WHY GET LISTED? link
+[INFO ] 2023-07-17 15:24:51.356 [main] VerifyFooterLinksclick - Open BUILD YOUR PROFILE link
+[INFO ] 2023-07-17 15:24:51.357 [main] VerifyFooterLinksclick - Open BOOST YOUR PROFILE link
+[INFO ] 2023-07-17 15:24:51.357 [main] VerifyFooterLinksclick - Open VENDOR LOGIN link
+[INFO ] 2023-07-17 15:28:29.586 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-17 15:28:34.066 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-17 15:28:39.164 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-17 15:28:43.180 [main] LoginPageTest - Verify_loginPageTitleTest
+[INFO ] 2023-07-19 17:51:07.535 [main] VerifyFooterLinksclickTest - Footer Goodfrims Logo Clicked and view on new page!!
+[INFO ] 2023-07-19 17:51:07.547 [main] VerifyFooterLinksclickTest - Open Social Media icons clicks clickable links - LinkedIn,FB,Twitter,
+[INFO ] 2023-07-19 17:51:07.547 [main] VerifyFooterLinksclickTest - Open Privacy link
+[INFO ] 2023-07-19 17:51:07.547 [main] VerifyFooterLinksclickTest - Open Terms of use link
+[INFO ] 2023-07-19 17:51:07.547 [main] VerifyFooterLinksclickTest - Open WHY GOODFIRMS link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open HELP CENTER link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open GLOSSARY link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open BLOGS link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open FAQS link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open RESEARCH link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open METHODOLOGY link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open FIND SERVICES link
+[INFO ] 2023-07-19 17:51:07.548 [main] VerifyFooterLinksclickTest - Open FIND SOFTWARE link
+[INFO ] 2023-07-19 17:51:07.549 [main] VerifyFooterLinksclickTest - Open INSIGHTS link
+[INFO ] 2023-07-19 17:51:07.549 [main] VerifyFooterLinksclickTest - Open WRITE A REVIEW link
+[INFO ] 2023-07-19 17:51:07.549 [main] VerifyFooterLinksclickTest - Open GET LISTED link
+[INFO ] 2023-07-19 17:51:07.549 [main] VerifyFooterLinksclickTest - Open WHY GET LISTED? link
+[INFO ] 2023-07-19 17:51:07.549 [main] VerifyFooterLinksclickTest - Open BUILD YOUR PROFILE link
+[INFO ] 2023-07-19 17:51:07.549 [main] VerifyFooterLinksclickTest - Open BOOST YOUR PROFILE link
+[INFO ] 2023-07-19 17:51:07.551 [main] VerifyFooterLinksclickTest - Open VENDOR LOGIN link
+[INFO ] 2023-07-19 17:51:19.868 [main] LoginPageTest - Verify_loginTest
+[INFO ] 2023-07-19 17:51:23.098 [main] LoginPageTest - Verify_goodfirmsImageTest
+[INFO ] 2023-07-19 17:51:27.937 [main] LoginPageTest - Verify_signinClick
+[INFO ] 2023-07-19 17:51:31.235 [main] LoginPageTest - Verify_loginPageTitleTest

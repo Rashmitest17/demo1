@@ -1,0 +1,31 @@
+Check for broken links available 
+
+
+TestNG is a Testing Framwork
+
+
+Page Object model 
+design patern -- create object respository UFD
+
+PageObjectModel
+========
+
+Apache POI API
+---XLS Reader
+---Utility
+---read/write   data cell vales
+
+--- read datafrom excel file
+
+-------------------
+enumset
+extending abstractsetand implementint setinterface
+it's not syncronized
+highly performance  java collection member 
+Faster than hashset
+all the methods are implemented using bitwise arithmitic operations
+we can allow empty enumset
+EnumSet.noneOf(Lang.class)
+
+
+

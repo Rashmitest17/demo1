@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ExtendReport]">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="ExtendReport of FilterTest(failed)">
+    <classes>
+      <class name="testcases.ViewVendorPortfolioListTest">
+        <methods>
+          <include name="Verify_Listofportfolio"/>
+          <include name="setup"/>
+          <include name="loadconfig"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- testcases.ViewVendorPortfolioListTest -->
+      <class name="testcases.LoginPageTest">
+        <methods>
+          <include name="verify_BlankCheckTest"/>
+          <include name="loadconfig"/>
+          <include name="TearDown"/>
+          <include name="Verify_InvalidloginTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- ExtendReport of FilterTest(failed) -->
+</suite> <!-- Failed suite [ExtendReport] -->

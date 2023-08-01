@@ -1,0 +1,5 @@
+[TRACE] 2023-05-29 17:18:28.537 [main] Log4jdemo - This is trace Message!
+[INFO ] 2023-05-29 17:18:28.543 [main] Log4jdemo - This is information message
+[ERROR] 2023-05-29 17:18:28.544 [main] Log4jdemo - This is an Error Message
+[WARN ] 2023-05-29 17:18:28.544 [main] Log4jdemo - This is Warnning message
+[FATAL] 2023-05-29 17:18:28.544 [main] Log4jdemo - This is an fatal Message
