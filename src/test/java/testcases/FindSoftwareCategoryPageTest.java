@@ -10,14 +10,14 @@ import Base.BaseTest2;
 import pageobjects.FindSoftwares;
 import pageobjects.IndexPage;
 
-public class FindSoftwareCategoryPage extends BaseTest2 {
+public class FindSoftwareCategoryPageTest extends BaseTest2 {
 
-	Logger logger = LogManager.getLogger(FindSoftwareCategoryPage.class);
+	Logger logger = LogManager.getLogger(FindSoftwareCategoryPageTest.class);
 	
 	IndexPage indexPage;
 	FindSoftwares findSoftwares;
 
-	public FindSoftwareCategoryPage() {
+	public FindSoftwareCategoryPageTest() {
 		super();
 	}
 

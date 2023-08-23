@@ -6,8 +6,10 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.omg.PortableInterceptor.SUCCESSFUL;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterSuite;
@@ -48,16 +50,28 @@ public class BaseTest2 {
 		if (browserName.equalsIgnoreCase("chrome")) {
 
 			// System.setProperty("webdriver.driver.chrome","C:\\Users\\Rashmi\\eclipse-workspace\\Test\\browser\\chromedriver.exe");
-			WebDriverManager.chromedriver().setup();
-			driver = new ChromeDriver();
 
+			//ChromeOptions chromeOptions = new ChromeOptions();
+			//chromeOptions.addArguments("--remote-allow-origins=*");
+			driver = WebDriverManager.chromedriver().create();
+			
+			
+			
+			 //WebDriverManager.chromedriver().create(); // By create method for single line to launch the browser..
+			 // For initializing binary 
+			// ChromeOptions options = new ChromeOptions();
+			
+			//driver = new ChromeDriver();
+
+			
+			
 		} else if (browserName.equalsIgnoreCase("firefox")) {
 
-			WebDriverManager.firefoxdriver().setup();
+			WebDriverManager.firefoxdriver().create();
 			driver = new FirefoxDriver();
 
 		} else if (browserName.equalsIgnoreCase("MicrosoftEdge")) {
-			WebDriverManager.edgedriver().setup();
+			WebDriverManager.edgedriver().create();
 			driver = new EdgeDriver();
 
 		} else {
@@ -65,14 +79,16 @@ public class BaseTest2 {
 		}
 
 		driver.manage().window().maximize();
-		driver.manage().deleteAllCookies();
+		driver.manage().deleteAllCookies(); // for delete all cookies of webbrowser
 		
 		//For ImplicitlyWait - 
 		driver.manage().timeouts().implicitlyWait(TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
-		// PageLoad TimeOuts
+		// PageLoad TimeOuts -- Explicit wait - 
+		
 		driver.manage().timeouts().pageLoadTimeout(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);
 		
 		driver.get(prop.getProperty("url"));	// To Get the url by .get method
+		
 		
 	}
 

@@ -6,14 +6,17 @@
  		<classes>
 			
 			<class name="testcases.TopSearchPageTest" />
-			<class name="testcases.FindSoftwareCategoryPage" /> 
-			<class name="testcases.VerifyFooterLinksclick" />
+			<class name="testcases.FindSoftwareCategoryPageTest" /> 
+			<class name="testcases.VerifyFooterLinksclickTest" />
 			<class name="testcases.BrokenLinksPageTest" />
  			<class name="testcases.BlogPageTest" />
  			<class name="testcases.ServiceMenuPageTest" />
  			<class name="testcases.LoginPageTest" />
- 			<class name="testcases.ViewPortfolioListTest" /> 
- 				
+ 			<class name="testcases.ViewVendorPortfolioListTest" />
+ 			 		
+ 			
+ 								 			
+ 						 				
  		</classes>
  	</test>
  	

@@ -1,5 +1,7 @@
 package testcases;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.ElementClickInterceptedException;
 import org.testng.SkipException;
 import org.testng.annotations.AfterMethod;
@@ -14,7 +16,10 @@ import pageobjects.VendorAddPortfolioList;
 import pageobjects.VendorViewPortfolioList;
 
 public class ViewVendorPortfolioListTest extends BaseTest2 {
-
+	
+	//For log generation
+	Logger logger = LogManager.getLogger(ViewVendorPortfolioListTest.class);
+	
 	IndexPage indexPage;
 	HomePage homePage;
 	LoginPage loginPage;

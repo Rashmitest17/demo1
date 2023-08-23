@@ -31,6 +31,15 @@ public class Checkboxes {
 				break;
 			}
 		}
+		
+		for(int j=0;j< checkboxes.size();j++) {
+			String valueString = checkboxes.get(j).getAttribute("Collaboration Tools");
+			if(valueString.equalsIgnoreCase("Collaboration Tools")) {
+				break;
+				}
+		}
+		
+		System.out.println(" System is gets collaboration Tools..");
 		driver.close();
 
 	}

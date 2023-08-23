@@ -21,16 +21,23 @@ public class LoginTestA extends BaseTestA {
 
 		String title = page.getInstance(LoginPageA.class).getLoginpageTitle();
 		System.out.println(title);
-		Assert.assertEquals(title, "GoodFirms - B2B Reviews & Ratings you can trust");
+		Assert.assertEquals(title,"GoodFirms - B2B Reviews & Ratings you can trust");
 
 	}
-
+	
 	@Test(priority = 2, enabled = true)
 	public void verifyLoginPageHeaderTest() {
 		// Use generics
 		String Header = page.getInstance(HomePageA.class).getHomePageHeader();
 		System.out.println(Header);
 		Assert.assertEquals(Header, "Where you find the right company");
+		System.out.println("This is tesing data Analytics");
+		
+		
+		System.out.println("Data Analytics");
+		
+
+		
 	}
 
 	@Test(priority = 2, enabled = true)
@@ -42,8 +49,9 @@ public class LoginTestA extends BaseTestA {
 		String headerhome = homePageA.getHomePageHeader();
 		System.out.println(headerhome);
 
-		Assert.assertEquals(headerhome, "Where you find the right company");
-
+		Assert.assertEquals(headerhome,"Where you find the right company");
+		
+	
 	}
 
 	@Test(priority = 3, enabled = true)

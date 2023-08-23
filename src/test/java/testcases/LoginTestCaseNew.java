@@ -49,7 +49,7 @@ public class LoginTestCaseNew extends BaseTest2 {
 		Assert.assertEquals(actualString, expectedString, "Valid UserName");
 
 	}
-
+	
 	@AfterMethod
 	public void TearDown() {
 		// Close the browser

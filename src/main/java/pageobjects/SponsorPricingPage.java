@@ -9,14 +9,22 @@ import Base.BaseTest2;
 public class SponsorPricingPage extends BaseTest2{
 
 	//Page Object 
+		
 	
-		@FindBy(xpath = "")
+		@FindBy( linkText = "Boost Your Profile")
+		WebElement footerlinkboostyourprofilElement;
+		
+		@FindBy(xpath ="//h4[normalize-space()='Boost Your Profile']")
 		WebElement boostyourprofilElement;
 	
-		@FindBy(xpath ="//div[contains(@class,'link-button getlisted-link')]")
-		WebElement becomesponsorElement;
+		//@FindBy(xpath ="//div[contains(@class,'link-button getlisted-link')]")
+		//WebElement becomesponsorElement;
 		
-				
+		
+		@FindBy(linkText = "Boost Your Profile")
+		WebElement becomeaSponsorbuttonElement;
+		
+			
 		
 		// Initialization
 		public SponsorPricingPage() {
@@ -25,12 +33,19 @@ public class SponsorPricingPage extends BaseTest2{
 	
 			
 		// Actions 
-		public void sponserPricing() throws InterruptedException{
+		public IndexPage sponserPricing() throws InterruptedException{
 			
+			Thread.sleep(2000);
+			footerlinkboostyourprofilElement.click();
+			
+			//To Click on Boost Your Profile
 			boostyourprofilElement.click();
 			Thread.sleep(2000);
+			//To click on Become a Sponsor button 
+			becomeaSponsorbuttonElement.click();
 			
-			becomesponsorElement.click();
+			return new IndexPage();
+			
 		}
 		
 		

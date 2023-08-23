@@ -15,11 +15,14 @@
   </properties>
 
   <dependencies>
- <dependency>
-			<groupId>io.github.bonigarcia</groupId>
-			<artifactId>webdrivermanager</artifactId>
-			<version>5.1.0</version>
-		</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+ 
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.4.1</version>
+</dependency>
 
 
 
@@ -57,12 +60,13 @@
 
 
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<!--
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.9.1</version>
 </dependency>
-
+-->
 
 	<dependency>
 			<groupId>org.apache.poi</groupId>
@@ -98,16 +102,22 @@
 
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-manager -->
-		<dependency>
+	<!--	<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-manager</artifactId>
 			<version>4.9.1</version>
 		</dependency>
 		
+		-->
+		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.11.0</version>
+</dependency>
+
 		
-
-
-		<dependency>
+	<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-all</artifactId>
 			<version>1.8.5</version>
@@ -117,6 +127,7 @@
 
 		<!--
 		https://mvnrepository.com/artifact/io.github.qsy7.java.modules.browser.drivers/chromedriver -->
+		
 		<dependency>
 			<groupId>io.github.qsy7.java.modules.browser.drivers</groupId>
 			<artifactId>chromedriver</artifactId>
@@ -125,17 +136,17 @@
 		
 
 
-
 		
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-chrome-driver</artifactId>
-			<version>4.9.1</version>
+			<version>4.11.0</version>
 		</dependency>
-
-<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+		
+		
+	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>

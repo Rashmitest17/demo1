@@ -171,6 +171,9 @@ public class FindSoftwares extends BaseTest2 {
 		Thread.sleep(1000);
 
 		return new FindSoftwares();
+		
+		
+		
 	}
 
 	public FindSoftwares relatedCategorylinks() throws InterruptedException {
@@ -213,7 +216,8 @@ public class FindSoftwares extends BaseTest2 {
 	}
 
 	public FindSoftwares verify_FindSoftwareByFilter() throws InterruptedException {
-
+		
+		Thread.sleep(1000);
 		shoFilterElement.click();
 		Thread.sleep(1000);
 		popularFeaturElement.click();
@@ -229,7 +233,8 @@ public class FindSoftwares extends BaseTest2 {
 
 		applyElement.click();
 		Thread.sleep(1000);
-
+		
+		
 		return new FindSoftwares();
 
 	}

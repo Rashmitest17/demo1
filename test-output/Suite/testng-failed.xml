@@ -4,31 +4,14 @@
   <test thread-count="5" name="SmokeTesting(failed)">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="testcases.LoginPageTest">
+      <class name="testcases.FindSoftwareCategoryPageTest">
         <methods>
-          <include name="verify_BlankCheckTest"/>
-          <include name="loadconfig"/>
           <include name="TearDown"/>
-          <include name="Verify_InvalidloginTest"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testcases.LoginPageTest -->
-      <class name="testcases.BrokenLinksPageTest">
-        <methods>
-          <include name="Verify_BrokenLinks"/>
           <include name="loadconfig"/>
-          <include name="TearDown"/>
           <include name="load"/>
+          <include name="verify_FindSoftwareByFilter"/>
         </methods>
-      </class> <!-- testcases.BrokenLinksPageTest -->
-      <class name="testcases.ViewPortfolioListTest">
-        <methods>
-          <include name="Verify_Listofportfolio"/>
-          <include name="setup"/>
-          <include name="loadconfig"/>
-          <include name="TearDown"/>
-        </methods>
-      </class> <!-- testcases.ViewPortfolioListTest -->
+      </class> <!-- testcases.FindSoftwareCategoryPageTest -->
     </classes>
   </test> <!-- SmokeTesting(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -2,19 +2,17 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="Suite" parallel="none">
  	 	<test name="SanityTesting" parallel="false">
- 		<parameter name="browser" value= "firefox" />
+ 		<parameter name="browser" value= "chrome" />
  		<classes>
 			<class name="testcases.LoginPageTest" />
-			<class name="testcases.TopSearchPageTest" />
+		<!--	<class name="testcases.TopSearchPageTest" />
 			<class name="testcases.FindSoftwareCategoryPage" /> 
 			<class name="testcases.VerifyFooterLinksclick" />
 			<class name="testcases.BlogPageTest" />
  			<class name="testcases.ServiceMenuPageTest" />
  			<class name="testcases.ViewPortfolioListTest" /> 
- 			<class name="testcases.BrokenLinksPageTest" />
- 			
- 			
- 			
+ 			<class name="testcases.BrokenLinksPageTest" />-->
+ 						 			
  		</classes>
  	</test>
 </suite>

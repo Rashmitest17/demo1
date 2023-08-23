@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+<testng-results skipped="0" failed="0" ignored="8" total="9" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13545" started-at="2023-07-31T17:45:25 IST" finished-at="2023-07-31T17:45:39 IST">
+  <suite name="Default suite" duration-ms="12595" started-at="2023-08-23T15:42:40 IST" finished-at="2023-08-23T15:42:53 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13545" started-at="2023-07-31T17:45:25 IST" finished-at="2023-07-31T17:45:39 IST">
-      <class name="practice.DragandDropselenium">
-        <test-method status="PASS" signature="implicitewaittest()[pri:0, instance:practice.DragandDropselenium@157632c9]" name="implicitewaittest" duration-ms="7438" started-at="2023-07-31T17:45:25 IST" finished-at="2023-07-31T17:45:33 IST">
+    <test name="Default test" duration-ms="12595" started-at="2023-08-23T15:42:40 IST" finished-at="2023-08-23T15:42:53 IST">
+      <class name="testcases.TestingClass">
+        <test-method status="PASS" signature="verify_google()[pri:1, instance:testcases.TestingClass@16e7dcfd]" name="verify_google" duration-ms="12552" started-at="2023-08-23T15:42:40 IST" finished-at="2023-08-23T15:42:53 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- implicitewaittest -->
-        <test-method status="PASS" signature="dragdown()[pri:1, instance:practice.DragandDropselenium@157632c9]" name="dragdown" duration-ms="6061" started-at="2023-07-31T17:45:33 IST" finished-at="2023-07-31T17:45:39 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- dragdown -->
-      </class> <!-- practice.DragandDropselenium -->
+        </test-method> <!-- verify_google -->
+      </class> <!-- testcases.TestingClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

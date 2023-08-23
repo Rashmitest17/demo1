@@ -11,7 +11,8 @@ public class BlogPage extends BaseTest2 {
 	// Page factory
 	@FindBy(linkText = "Blogs")
 	WebElement blogtest;
-
+	
+	
 	// initializing page objects
 	public BlogPage() {
 

@@ -48,7 +48,6 @@ public class BaseTestA {
 		} catch (IOException e) {
 			// TODO: handle exception
 		}
-
 	}
 
 	@BeforeMethod

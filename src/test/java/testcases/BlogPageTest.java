@@ -8,6 +8,7 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import Base.BaseTest2;
+
 import pageobjects.BlogPage;
 import pageobjects.IndexPage;
 
@@ -21,11 +22,15 @@ public class BlogPageTest extends BaseTest2 {
 	@Parameters("browser")
 	@BeforeMethod
 	public void load() {
+		
 		initialization();
 		IndexPage indexPage = new IndexPage();
-
-	}
-
+		
+		
+		
+		}
+	
+	
 	@Test
 	public void verify_BlogPage() {
 

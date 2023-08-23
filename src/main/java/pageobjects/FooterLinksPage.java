@@ -37,6 +37,7 @@ public class FooterLinksPage extends BaseTest2 {
 	public IndexPage footerlink_About() throws InterruptedException {
 
 		footergoodfirmslogo.click();
+		
 
 		// WebElement opentabs = footerElement1;
 		try {
@@ -65,7 +66,11 @@ public class FooterLinksPage extends BaseTest2 {
 				footerElement1.findElements(By.tagName("a")).get(i).sendKeys(opentabsagain);
 				String linktext2 = footerElement1.findElements(By.tagName("a")).get(i).getText();
 				System.out.println(linktext2);
-
+				
+				
+				
+			
+				
 			}
 
 			// For User + For Businesss Footer Links

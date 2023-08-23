@@ -31,11 +31,12 @@ public class DataProviders {
 		Object[][] data = new Object[actRows][column];
 
 		for (int i = 0; i < actRows; i++) {
-			for (int j = 0; j < column; j++) {
+			for (int j = 0;j<column;j++) {
 				data[i][j] = obj.getCellData("Credentials", j, i + 2);
 			}
 		}
 		return data;
+		
 	}
 
 //Class --> AccountCreationPage  Test Case--> verifyCreateAccountPageTest	
